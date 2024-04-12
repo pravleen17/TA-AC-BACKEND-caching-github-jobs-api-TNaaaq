@@ -10,3 +10,4 @@ Take a reference for star wars API from [here](https://swapi.dev/)
 2. connect express application to redis server
 3. Cache characters from star wars into redis server and serve them from cache, if requested more than once
 4. cahe it for a specific duration of time
+5. 
